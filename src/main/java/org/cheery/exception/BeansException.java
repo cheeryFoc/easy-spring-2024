@@ -1,4 +1,4 @@
-package org.cheery.beans.exception;
+package org.cheery.exception;
 
 public class BeansException extends RuntimeException {
 

@@ -1,6 +1,6 @@
 package org.cheery.beans.factory.xml;
 
-import org.cheery.beans.exception.BeansException;
+import org.cheery.exception.BeansException;
 import org.cheery.beans.factory.config.BeanDefinition;
 import org.cheery.beans.factory.config.BeanReference;
 import org.cheery.beans.factory.support.AbstractBeanDefinitionReader;

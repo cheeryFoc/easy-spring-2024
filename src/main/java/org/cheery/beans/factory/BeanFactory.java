@@ -1,6 +1,6 @@
 package org.cheery.beans.factory;
 
-import org.cheery.beans.exception.BeansException;
+import org.cheery.exception.BeansException;
 
 public interface BeanFactory {
 

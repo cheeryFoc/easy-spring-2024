@@ -1,6 +1,6 @@
 package org.cheery.beans.factory.support;
 
-import org.cheery.beans.exception.BeansException;
+import org.cheery.exception.BeansException;
 import org.cheery.core.io.Resource;
 import org.cheery.core.io.ResourceLoader;
 

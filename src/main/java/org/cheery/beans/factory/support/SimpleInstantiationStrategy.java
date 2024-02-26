@@ -1,6 +1,6 @@
 package org.cheery.beans.factory.support;
 
-import org.cheery.beans.exception.BeansException;
+import org.cheery.exception.BeansException;
 import org.cheery.beans.factory.config.BeanDefinition;
 
 import java.lang.reflect.Constructor;
